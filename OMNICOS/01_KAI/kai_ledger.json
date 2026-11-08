@@ -1,0 +1,5 @@
+{
+  "genesis": "30013030",
+  "doctrine": "append-only; each entry_hash commits the previous",
+  "entries": []
+}
